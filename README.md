@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-parfum-de-nostalgie/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Un Parfum De Nostalgie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-parfum-de-nostalgie/) |
+| **Get License** | [Secure Licensing Rights for Un Parfum De Nostalgie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-parfum-de-nostalgie/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum de nostalgie, une trace sur mon cou
+> Un regard échangé, et le monde devient flou
+> Baby come closer, on a toute la nuit pour nous
+> Sous les néons de la ville, je suis fou de ton goût
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
