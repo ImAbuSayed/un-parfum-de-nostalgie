@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-parfum-de-nostalgie/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Un Parfum De Nostalgie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-parfum-de-nostalgie/) |
+| **Get License** | [Music Rights & Licensing for Un Parfum De Nostalgie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-parfum-de-nostalgie/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `df108836ed48021e5381d9a18fb7cb52a93941bc54599c20a837655b28187512` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
